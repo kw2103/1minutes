@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Obstacles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Obstacles.cpp",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.cpp",
+              "RelativeDocumentMoniker": "SourceCode\\Obstacles.cpp",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.cpp",
+              "RelativeToolTip": "SourceCode\\Obstacles.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T05:25:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
+              "RelativeDocumentMoniker": "SourceCode\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
+              "RelativeToolTip": "SourceCode\\Enemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T05:24:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h",
+              "RelativeDocumentMoniker": "SourceCode\\Main.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h",
+              "RelativeToolTip": "SourceCode\\Main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:24:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h",
+              "RelativeDocumentMoniker": "SourceCode\\Enemy.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h",
+              "RelativeToolTip": "SourceCode\\Enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:23:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obstacles.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
+              "RelativeDocumentMoniker": "SourceCode\\Obstacles.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
+              "RelativeToolTip": "SourceCode\\Obstacles.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:23:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h",
+              "RelativeDocumentMoniker": "SourceCode\\Player.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h",
+              "RelativeToolTip": "SourceCode\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:21:59.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp",
+              "RelativeDocumentMoniker": "SourceCode\\Player.cpp",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp",
+              "RelativeToolTip": "SourceCode\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T05:21:32.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SceneTitle.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
+              "RelativeDocumentMoniker": "SourceCode\\SceneTitle.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
+              "RelativeToolTip": "SourceCode\\SceneTitle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:21:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneGame.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
+              "RelativeDocumentMoniker": "SourceCode\\SceneGame.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
+              "RelativeToolTip": "SourceCode\\SceneGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:21:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneTitle.cpp",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
+              "RelativeDocumentMoniker": "SourceCode\\SceneTitle.cpp",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
+              "RelativeToolTip": "SourceCode\\SceneTitle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T05:20:50.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneGame.cpp",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
+              "RelativeDocumentMoniker": "SourceCode\\SceneGame.cpp",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
+              "RelativeToolTip": "SourceCode\\SceneGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T05:20:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "All.h",
+              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h",
+              "RelativeDocumentMoniker": "SourceCode\\All.h",
+              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h",
+              "RelativeToolTip": "SourceCode\\All.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T05:19:58.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

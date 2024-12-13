@@ -127,7 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SourceCode\main.cpp" />
+    <ClCompile Include="SourceCode\Enemy.cpp" />
+    <ClCompile Include="SourceCode\Main.cpp" />
+    <ClCompile Include="SourceCode\Obstacles.cpp" />
+    <ClCompile Include="SourceCode\Player.cpp" />
+    <ClCompile Include="SourceCode\SceneGame.cpp" />
+    <ClCompile Include="SourceCode\SceneTitle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SourceCode\All.h" />
+    <ClInclude Include="SourceCode\Enemy.h" />
+    <ClInclude Include="SourceCode\Main.h" />
+    <ClInclude Include="SourceCode\Obstacles.h" />
+    <ClInclude Include="SourceCode\Player.h" />
+    <ClInclude Include="SourceCode\SceneGame.h" />
+    <ClInclude Include="SourceCode\SceneTitle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
