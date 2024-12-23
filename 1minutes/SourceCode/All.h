@@ -8,3 +8,4 @@
 #include "SceneTitle.h"
 
 #include "../GameLib/game_lib.h"
+#include "../../../oneButton/project/Balloon Glide/GameLib/sprite.h"
