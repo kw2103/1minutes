@@ -16,7 +16,9 @@ int grenadeCount;
 PLAYER player;
 
 Sprite* sprPlayer;
-Sprite* sprFinish;
+Sprite* sprGrenade;
+Sprite* sprGun;
+Sprite* sprBullet;
 
 void player_init()
 {
