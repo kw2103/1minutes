@@ -8,7 +8,7 @@ int bullet;
 
 int nitoro;
 int nitoroCount;
-int nitoroSpeed;
+float nitoroSpeed;
 
 int grenade;
 int grenadeCount;
@@ -26,7 +26,7 @@ void player_init()
 	player.speed = { 1.0f,0.0f };
 
 	nitoro = 2;
-	nitoroCount = 0.0f;
+	nitoroCount = 2;
 	nitoroSpeed = 0.0f;
 
 	grenade = 3;
@@ -44,7 +44,10 @@ void player_update()
 	switch (player.player_state)
 	{
 	case 0:
-		sprPlayer = sprite_load(L"./Data/Images/player.png");
+		sprPlayer  = sprite_load(L"./Data/Images/player.png");
+		sprGrenade = sprite_load(L"./Data/Images/Grenade.png");
+		sprGun     = sprite_load(L"./Data/Images/Gun.png");
+		sprBullet  = sprite_load(L"./Data/Images/Bullet.png");
 		++player.player_state;
 	case 1:
 		player.scale = { 1.5f, 1.5f };
@@ -59,7 +62,7 @@ void player_update()
 		//プレイヤーが障害物に当たった時、減速する
 
 		//スペースキーでニトロを使う
-
+		if(TRG(0))
 		//右クリックでグレランを使う
 
 		//プレイヤーに装甲がついた時の処理
@@ -83,4 +86,10 @@ void player_render()
 		player.angle,
 		player.color.x, player.color.y, player.color.z, player.color.w
 	);
+	//左クリック長押ししてるときに弾丸を描画させる
+
+	//右クリックを押したときにグレランを描写させる
+
+	//機銃の描写（マウスカーソルを追わせる）
+
 }
