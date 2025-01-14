@@ -21,10 +21,10 @@ public:
 	VECTOR2 pivot;
 	VECTOR4 color;
 
-	int player_state;
+	int state;
 	float radius;
 	VECTOR2 offset;
-	float hp;
+
 
 	
 };
