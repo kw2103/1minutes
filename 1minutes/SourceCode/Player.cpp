@@ -1,8 +1,11 @@
 #include "All.h"
 
 
+using namespace GameLib::input;
 using namespace GameLib;
 using namespace std;
+
+int shougai;//仮
 
 int bullet;
 
@@ -12,6 +15,9 @@ float nitoroSpeed;
 
 int grenade;
 int grenadeCount;
+
+float speedX;
+float speedY;
 
 PLAYER player;
 
@@ -23,7 +29,7 @@ Sprite* sprBullet;
 void player_init()
 {
 	player.player_state = 0;
-	player.speed = { 1.0f,0.0f };
+	player.speed = { speedX,speedY };
 
 	nitoro = 2;
 	nitoroCount = 2;
@@ -58,13 +64,19 @@ void player_update()
 	case 2:
 		//通常時
 		//プレイヤーのスピードが徐々に上がる
-
+		speedX++;
 		//プレイヤーが障害物に当たった時、減速する
-
+		
 		//スペースキーでニトロを使う
-		if(TRG(0))
-		//右クリックでグレランを使う
+		if (TRG(0) & PAD_TRG4)
+		{
 
+		}
+		//右クリックでグレランを使う
+		if (TRG(0) & PAD_R1)
+		{
+
+		}
 		//プレイヤーに装甲がついた時の処理
 
 		++player.player_state;
