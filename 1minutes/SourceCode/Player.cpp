@@ -7,7 +7,6 @@ using namespace std;
 
 int shougai;//仮
 
-int bullet;
 
 int nitoro;
 int nitoroCount;
@@ -17,6 +16,21 @@ int grenadeCount;
 
 float speedX;
 float speedY;
+
+//銃弾
+int bullet;
+
+float BX;
+float BY;
+float BSX;
+float BSY;
+float BTX;
+float BTY;
+float BTW;
+float BTH;
+float BCX;
+float BCY;
+float B_angle;
 
 PLAYER player;
 
@@ -103,12 +117,12 @@ void player_render()
 	//左クリック長押ししてるときに弾丸を描画させる
 	if (TRG(0) & PAD_L1)
 	{
-		sprite_render(sprBullet, );
+		sprite_render(sprBullet, BX, BY, BSX, BSY, BTX, BTY, BTW, BTH, BCX, BCY, B_angle, 1.0f, 1.0f, 1.0f, 1.0f);;
 	}
 	//右クリックを押したときにグレランを描写させる
 	if (TRG(0) & PAD_R1)
 	{
-		sprite_render(sprGrenade, );
+		sprite_render(sprGrenade,);
 	}
 	//機銃の描写（マウスカーソルを追わせる）
 
