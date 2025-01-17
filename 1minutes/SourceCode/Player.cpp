@@ -115,9 +115,15 @@ void player_render()
 		player.color.x, player.color.y, player.color.z, player.color.w
 	);
 	//左クリック長押ししてるときに弾丸を描画させる
-	if (TRG(0) & PAD_L1)
+	if (STATE(0) & PAD_L1)
 	{
-		sprite_render(sprBullet, BX, BY, BSX, BSY, BTX, BTY, BTW, BTH, BCX, BCY, B_angle, 1.0f, 1.0f, 1.0f, 1.0f);;
+		sprite_render(sprBullet, BX, BY, 
+			BSX, BSY, 
+			BTX, BTY, 
+			BTW, BTH, 
+			BCX, BCY, 
+			B_angle, 
+			1.0f, 1.0f, 1.0f, 1.0f);
 	}
 	//右クリックを押したときにグレランを描写させる
 	if (TRG(0) & PAD_R1)
