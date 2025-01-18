@@ -142,6 +142,7 @@
     <ClInclude Include="SourceCode\Player.h" />
     <ClInclude Include="SourceCode\SceneGame.h" />
     <ClInclude Include="SourceCode\SceneTitle.h" />
+    <ClInclude Include="SourceCode\stage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
