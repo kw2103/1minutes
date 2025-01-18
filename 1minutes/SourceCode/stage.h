@@ -8,6 +8,9 @@
 
 constexpr float STAGE_TEX_W = 400.0f;
 constexpr float STAGE_TEX_H = 100.0f;
+constexpr int QUANTITY = 8;
+const LONG SCREEN_W{ 1920 };
+const LONG SCREEN_H{ 1080 };
 
 
 

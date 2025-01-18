@@ -133,6 +133,7 @@
     <ClCompile Include="SourceCode\Player.cpp" />
     <ClCompile Include="SourceCode\SceneGame.cpp" />
     <ClCompile Include="SourceCode\SceneTitle.cpp" />
+    <ClCompile Include="SourceCode\stage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SourceCode\All.h" />

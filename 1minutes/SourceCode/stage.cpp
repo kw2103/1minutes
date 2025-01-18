@@ -124,7 +124,7 @@ VECTOR2 stage_data[6][20][QUANTITY] =
 	}
 };
 
-Stage::Stage(int backNum,int next_backNum, int backCount, int num, VECTOR2 backPos,Sprite* sprite) :back_num(next_backNum), back_count(backCount),exsit(true),stage_num(num)
+Stage::Stage(int backNum,int next_backNum, int backCount, int num, VECTOR2 backPos,GameLib::Sprite* sprite) :back_num(next_backNum), back_count(backCount),exsit(true),stage_num(num)
 {
 	float width = 0, length = 0;
 
@@ -197,70 +197,70 @@ bool Stage::stage_erase(int backNum, int backCount)
 
 void Stage::stage_render(int backNum)
 {
-	sprite_render(spr,pos.x,pos.y,1,1,0,0,STAGE_TEX_W,STAGE_TEX_H,0,0,ToRadian(0),1,1,1,1);
+	sprite_render(spr,pos.x,pos.y,1,1,0,0,STAGE_TEX_W,STAGE_TEX_H,0,0,0,1,1,1,1);
 }
 
-void Stage::stage_judge(OBJ2D* player)
-{
-	
-}
+//void Stage::stage_judge(OBJ2D* player)
+//{
+//	
+//}
 
-void Stage::enemy_onStage(Enemy* enemy)
-{
-	VECTOR2 enemyPos = enemy->get_enemyPosition();	
-	if (!enemy->onGround_through)
-	{
-		if (enemyPos.y - ENEMY_TEX_H * 0.5f <= pos.y + STAGE_TEX_H && enemyPos.y + ENEMY_TEX_H * 0.5f >= pos.y &&
-			enemyPos.x + ENEMY_TEX_W * 0.5f > pos.x && enemyPos.x - ENEMY_TEX_W * 0.5f < pos.x + STAGE_TEX_W) {
-			enemy->onGround = true;
-			enemy->set_enemyPositionY(pos.y);
-			enemy->onGround_through = true;
-		}
-		else
-		{
-			enemy->onGround = false;
-		}
-	}
-}
+//void Stage::enemy_onStage(Enemy* enemy)
+//{
+//	VECTOR2 enemyPos = enemy->get_enemyPosition();	
+//	if (!enemy->onGround_through)
+//	{
+//		if (enemyPos.y - ENEMY_TEX_H * 0.5f <= pos.y + STAGE_TEX_H && enemyPos.y + ENEMY_TEX_H * 0.5f >= pos.y &&
+//			enemyPos.x + ENEMY_TEX_W * 0.5f > pos.x && enemyPos.x - ENEMY_TEX_W * 0.5f < pos.x + STAGE_TEX_W) {
+//			enemy->onGround = true;
+//			enemy->set_enemyPositionY(pos.y);
+//			enemy->onGround_through = true;
+//		}
+//		else
+//		{
+//			enemy->onGround = false;
+//		}
+//	}
+//}
 
-void Stage::checkPoint_through(CheckPoint* check,VECTOR2 back_pos,float player_posX)
-{
-	switch (back_count)
-	{
-	case 0:
-		if (back_num == 1 && stage_num == 0 && player_posX > pos.x&&!check->through[0])
-		{
-			check->checkPos = pos;
-			check->bacKPos = back_pos;
-			check->through[0] = true;
-			break;
-		}
-	case 4:
-		if (back_num == 1 && stage_num == 0 && player_posX > pos.x&&!check->through[1])
-		{
-			check->checkPos = pos;
-			check->bacKPos = back_pos;
-			check->through[1] = true;
-			break;
-		}
-	case 9:
-		if (back_num == 1 && stage_num == 0 && player_posX > pos.x && !check->through[2])
-		{
-			check->checkPos = pos;
-			check->bacKPos = back_pos;
-			check->through[2] = true;
-			break;
-		}
-	case 14:
-		if (back_num == 2 && stage_num == 0 && player_posX > pos.x && !check->through[3])
-		{
-			check->checkPos = pos;
-			check->bacKPos = back_pos;
-			check->through[3] = true;
-			break;
-		}
-	}
-}
+//void Stage::checkPoint_through(CheckPoint* check,VECTOR2 back_pos,float player_posX)
+//{
+//	switch (back_count)
+//	{
+//	case 0:
+//		if (back_num == 1 && stage_num == 0 && player_posX > pos.x&&!check->through[0])
+//		{
+//			check->checkPos = pos;
+//			check->bacKPos = back_pos;
+//			check->through[0] = true;
+//			break;
+//		}
+//	case 4:
+//		if (back_num == 1 && stage_num == 0 && player_posX > pos.x&&!check->through[1])
+//		{
+//			check->checkPos = pos;
+//			check->bacKPos = back_pos;
+//			check->through[1] = true;
+//			break;
+//		}
+//	case 9:
+//		if (back_num == 1 && stage_num == 0 && player_posX > pos.x && !check->through[2])
+//		{
+//			check->checkPos = pos;
+//			check->bacKPos = back_pos;
+//			check->through[2] = true;
+//			break;
+//		}
+//	case 14:
+//		if (back_num == 2 && stage_num == 0 && player_posX > pos.x && !check->through[3])
+//		{
+//			check->checkPos = pos;
+//			check->bacKPos = back_pos;
+//			check->through[3] = true;
+//			break;
+//		}
+//	}
+//}
 
 
 
