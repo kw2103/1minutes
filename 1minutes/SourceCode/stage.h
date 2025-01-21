@@ -1,13 +1,14 @@
 #ifndef STAGE_H
 #define STAGE_H
 
-
 #include "enemy.h"
-//#include "checkpoint.h"
+#include "checkpoint.h"
 #include "../GameLib/game_lib.h"
 
 constexpr float STAGE_TEX_W = 400.0f;
 constexpr float STAGE_TEX_H = 100.0f;
+constexpr float JUMP_TEX_W = 100.0f;
+constexpr float JUMP_TEX_H = 100.0f;
 constexpr int QUANTITY = 8;
 const LONG SCREEN_W{ 1920 };
 const LONG SCREEN_H{ 1080 };
@@ -23,15 +24,16 @@ class Stage
 	int stage_num;
 	bool exsit;
 public:
-	Stage(int backNum ,int next_backNum,int backCount,int num, VECTOR2 backPos,GameLib::Sprite* spr);
+	Stage(int backNum, int next_backNum, int backCount, int num, VECTOR2 backPos, GameLib::Sprite* spr);
 	VECTOR2 stage_position();
 	bool stage_exsit();
-	void stage_move(VECTOR2 backPos, int backNum, VECTOR2 velocity);
+	void stage_move(VECTOR2 velocity, float gravity);
 	bool stage_erase(int backNum, int backCount);
-	void stage_render(int backNum);
-	//void stage_judge(OBJ2D* player);
+	void stage_render();
+	bool stage_judge(OBJ2D* player);
 	//void enemy_onStage(Enemy* enemy);
-	//void checkPoint_through(CheckPoint* check, VECTOR2 back_pos, float player_posX);
+	void checkPoint_through(CheckPoint* check, VECTOR2 back_pos, float player_posX);
+	bool goal(VECTOR2 position);
 };
 
 class Stage_spr
@@ -41,6 +43,18 @@ public:
 	Stage_spr();
 	void stage_load();
 	void stage_data_delete();
+};
+
+class Jump_board
+{
+	GameLib::Sprite* spr;
+	VECTOR2 pos;
+public:
+	bool exsit;
+	Jump_board(int backNum, int next_backNum, int backCount, VECTOR2 backPos, GameLib::Sprite* sprite);
+	bool player_onJumpBoard(OBJ2D* player);
+	void jumpBoard_render();
+	void jumpBoard_move(VECTOR2 velocity, float gravity);
 };
 
 #endif // !STAGE_H
