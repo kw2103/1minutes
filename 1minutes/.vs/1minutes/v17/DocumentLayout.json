@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,30 +62,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "stage.cpp",
               "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp",
               "RelativeDocumentMoniker": "SourceCode\\stage.cpp",
               "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp",
               "RelativeToolTip": "SourceCode\\stage.cpp",
-              "ViewState": "AQIAANUAAAAAAAAAAAAAAAcBAAAAAAAA",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAowH0BAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-18T04:48:54.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "stage.h",
               "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.h",
               "RelativeDocumentMoniker": "SourceCode\\stage.h",
               "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.h",
               "RelativeToolTip": "SourceCode\\stage.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-18T04:46:10.958Z",
               "EditorCaption": ""
@@ -100,8 +100,7 @@
               "RelativeToolTip": "SourceCode\\Enemy.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:24:38.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:24:38.612Z"
             },
             {
               "$type": "Document",
