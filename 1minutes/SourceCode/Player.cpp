@@ -70,8 +70,9 @@ void player_update()
 	case 0:
 		sprPlayer    = sprite_load(L"./Data/Images/player.png");
 		sprGrenade   = sprite_load(L"./Data/Images/Grenade.png");
-		sprPlayerGun = sprite_load(L"./Data/Images/Gun.png");
+		
 		sprBullet    = sprite_load(L"./Data/Images/Bullet.png");
+
 		++player.state;
 
 		for (int i = 0; i < 100; i++)
