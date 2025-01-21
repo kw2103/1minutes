@@ -133,6 +133,7 @@
     <ClCompile Include="SourceCode\Player.cpp" />
     <ClCompile Include="SourceCode\SceneGame.cpp" />
     <ClCompile Include="SourceCode\SceneTitle.cpp" />
+    <ClCompile Include="SourceCode\stage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SourceCode\All.h" />
@@ -142,6 +143,7 @@
     <ClInclude Include="SourceCode\Player.h" />
     <ClInclude Include="SourceCode\SceneGame.h" />
     <ClInclude Include="SourceCode\SceneTitle.h" />
+    <ClInclude Include="SourceCode\stage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
