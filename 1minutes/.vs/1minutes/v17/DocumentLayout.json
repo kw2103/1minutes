@@ -1,15 +1,8 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\",
+  "WorkspaceRootPath": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-=======
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -60,104 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-<<<<<<< Updated upstream
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-=======
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\All.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
-    },
-    {
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\Obstacles.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-=======
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5953378-4EE5-4F73-AC85-EE3546FD8581}|1minutes.vcxproj|solutionrelative:SourceCode\\SceneTitle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
     }
   ],
   "DocumentGroupContainers": [
@@ -170,15 +73,7 @@
           "SelectedChildIndex": 12,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 5,
               "Title": "checkpoint.h",
               "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\checkpoint.h",
@@ -187,8 +82,7 @@
               "RelativeToolTip": "SourceCode\\checkpoint.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-21T07:46:33.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T07:46:33.734Z"
             },
             {
               "$type": "Document",
@@ -200,236 +94,135 @@
               "RelativeToolTip": "SourceCode\\main.cpp",
               "ViewState": "AQIAACUAAAAAAAAAAAAAABAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-21T07:22:20.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T07:22:20.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-=======
-              "DocumentIndex": 0,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "stage.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.cpp",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp",
               "RelativeDocumentMoniker": "SourceCode\\stage.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.cpp",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.cpp",
               "RelativeToolTip": "SourceCode\\stage.cpp",
-<<<<<<< Updated upstream
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAH0BAAAKAAAA",
-=======
-<<<<<<< HEAD
               "ViewState": "AQIAAO4AAAAAAAAAAAAowPIAAAAAAAAA",
-=======
-              "ViewState": "AQIAAJAAAAAAAAAAAAAAAH0BAAAKAAAA",
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-18T04:48:54.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T04:48:54.143Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 3,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 2,
-=======
-              "DocumentIndex": 3,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "stage.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.h",
               "RelativeDocumentMoniker": "SourceCode\\stage.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\stage.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\stage.h",
               "RelativeToolTip": "SourceCode\\stage.h",
               "ViewState": "AQIAAAQAAAAAAAAAAAAqwB8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-18T04:46:10.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T04:46:10.958Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 4,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 1,
-=======
-              "DocumentIndex": 4,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
               "RelativeDocumentMoniker": "SourceCode\\Enemy.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.cpp",
               "RelativeToolTip": "SourceCode\\Enemy.cpp",
               "ViewState": "AQIAAGAAAAAAAAAAAAAAAEoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:24:38.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:24:38.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Main.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Main.h",
               "RelativeDocumentMoniker": "SourceCode\\Main.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Main.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Main.h",
               "RelativeToolTip": "SourceCode\\Main.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:24:18.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:24:18.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Obstacles.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
               "RelativeDocumentMoniker": "SourceCode\\Obstacles.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Obstacles.h",
               "RelativeToolTip": "SourceCode\\Obstacles.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:23:04.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:23:04.397Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 1,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 7,
-=======
-              "DocumentIndex": 1,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Player.h",
               "RelativeDocumentMoniker": "SourceCode\\Player.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Player.h",
               "RelativeToolTip": "SourceCode\\Player.h",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:21:59.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:21:59.316Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 2,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 8,
-=======
-              "DocumentIndex": 2,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Player.cpp",
               "RelativeDocumentMoniker": "SourceCode\\Player.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Player.cpp",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Player.cpp",
               "RelativeToolTip": "SourceCode\\Player.cpp",
-<<<<<<< Updated upstream
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:21:32.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:21:32.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "SceneTitle.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
               "RelativeDocumentMoniker": "SourceCode\\SceneTitle.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
               "RelativeToolTip": "SourceCode\\SceneTitle.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-13T05:20:50.212Z"
             },
             {
               "$type": "Document",
-=======
-<<<<<<< HEAD
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAADAAAA",
-=======
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAACAAAA",
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:21:32.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 12,
-=======
-              "DocumentIndex": 7,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
-              "Title": "SceneTitle.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
-              "RelativeDocumentMoniker": "SourceCode\\SceneTitle.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.cpp",
-              "RelativeToolTip": "SourceCode\\SceneTitle.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:20:50.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
->>>>>>> Stashed changes
               "DocumentIndex": 6,
               "Title": "SceneGame.cpp",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
               "RelativeDocumentMoniker": "SourceCode\\SceneGame.cpp",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneGame.cpp",
               "RelativeToolTip": "SourceCode\\SceneGame.cpp",
               "ViewState": "AQIAAIcAAAAAAAAAAAAqwJYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-13T05:20:32.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:20:32.3Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 5,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 9,
-=======
-              "DocumentIndex": 5,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "All.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\All.h",
               "RelativeDocumentMoniker": "SourceCode\\All.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\All.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\All.h",
               "RelativeToolTip": "SourceCode\\All.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:19:58.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:19:58.221Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 9,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 0,
-=======
-              "DocumentIndex": 9,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.h",
               "RelativeDocumentMoniker": "SourceCode\\Enemy.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\Enemy.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\Enemy.h",
               "RelativeToolTip": "SourceCode\\Enemy.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -438,37 +231,27 @@
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 8,
-=======
-<<<<<<< HEAD
               "DocumentIndex": 11,
-=======
-              "DocumentIndex": 8,
->>>>>>> ed2d1f81c02dd8007f77d84e7061c0d899a83793
->>>>>>> Stashed changes
               "Title": "SceneGame.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
               "RelativeDocumentMoniker": "SourceCode\\SceneGame.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneGame.h",
               "RelativeToolTip": "SourceCode\\SceneGame.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:21:04.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:21:04.133Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SceneTitle.h",
-              "DocumentMoniker": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
+              "DocumentMoniker": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
               "RelativeDocumentMoniker": "SourceCode\\SceneTitle.h",
-              "ToolTip": "C:\\Users\\2240122\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
+              "ToolTip": "C:\\Users\\2240029\\Desktop\\\u30C1\u30FC\u30E0\u5236\u4F5C\\1\u5E743\u56DE\u76EE\\github\\1minutes\\1minutes\\SourceCode\\SceneTitle.h",
               "RelativeToolTip": "SourceCode\\SceneTitle.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-13T05:21:18.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T05:21:18.012Z"
             }
           ]
         }
