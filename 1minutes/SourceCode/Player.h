@@ -10,7 +10,7 @@
 
 
 
-class PLAYER {
+class OBJ2D {
 public:
 	float angle;
 	VECTOR2 speed;
@@ -20,6 +20,8 @@ public:
 	VECTOR2 texSize;
 	VECTOR2 pivot;
 	VECTOR4 color;
+	VECTOR2 pos;
+	VECTOR2 velocity;
 
 	int state;
 	float radius;

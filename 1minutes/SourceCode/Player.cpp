@@ -46,7 +46,8 @@ float GCX;
 float GCY;
 float G_angle;
 
-PLAYER player;
+OBJ2D player;
+OBJ2D bullets[100];
 
 Sprite* sprPlayer;
 Sprite* sprGrenade;
@@ -83,13 +84,27 @@ void player_update()
 		sprPlayerGun = sprite_load(L"./Data/Images/Gun.png");
 		sprBullet    = sprite_load(L"./Data/Images/Bullet.png");
 		++player.state;
-	case 1:
+
+		for (int i = 0; i < 100; i++)
+		{
+			bullets[i].state = 0;
+			bullets[i].pos = { 0, 0 };
+			bullets[i].velocity = { 8, 0 };
+			bullets[i].scale = { 0.5, 0.5 };
+			bullets[i].texPos = { 232, 226 };
+			bullets[i].texSize = { 57, 25 };
+			bullets[i].pivot = { 57 / 2, 25 / 2 };
+			bullets[i].angle = 0 * 0.01745;
+			bullets[i].color = { 1.0, 1.0, 1.0, 1.0 };
+		}
 		//player
 		player.angle = ToRadian(0);
 		player.scale = { 1.5f, 1.5f };
 		player.texPos = { 0, 0 };
 		player.texSize = { PLAYER_TEX_W, PLAYER_TEX_H };
 		player.pivot = { PLAYER_PIVOT_X, PLAYER_PIVOT_Y };
+
+	case 1:
 		++player.state;
 
 		//
@@ -101,6 +116,22 @@ void player_update()
 		//ƒvƒŒƒCƒ„[‚ªáŠQ•¨‚É“–‚½‚Á‚½ŽžAŒ¸‘¬‚·‚é
 		speedX = 1.0f;
 
+		//’e”­ŽË
+		for (int i = 0; i < 100; i++)
+		{
+			if (bullets[i].state == 0 && STATE(0) & PAD_TRG4)
+			{
+				bullets[i].pos.x = player.pos.x;
+				bullets[i].pos.y = player.pos.y;
+				bullets[i].state = 1;
+				break;
+			}
+			bullets[i].pos += bullets[i].velocity;
+		}
+		
+		//e’e‚ª“G‚âáŠQ•¨‚É“–‚½‚Á‚½Žž
+
+		
 		//ƒXƒy[ƒXƒL[‚Åƒjƒgƒ‚ðŽg‚¤
 		if (TRG(0) & PAD_TRG4)
 		{
