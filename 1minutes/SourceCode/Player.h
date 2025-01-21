@@ -1,5 +1,5 @@
 #pragma once
-
+#include "All.h"
 #include "../GameLib/vector.h"
 
 

@@ -18,17 +18,6 @@ float speedY;
 //銃弾
 int bullet;
 
-float BX;
-float BY;
-float BSX;
-float BSY;
-float BTX;
-float BTY;
-float BTW;
-float BTH;
-float BCX;
-float BCY;
-float B_angle;
 
 //グレラン
 int grenade;
@@ -98,7 +87,7 @@ void player_update()
 			bullets[i].color = { 1.0, 1.0, 1.0, 1.0 };
 		}
 		//player
-		player.angle = ToRadian(0);
+		
 		player.scale = { 1.5f, 1.5f };
 		player.texPos = { 0, 0 };
 		player.texSize = { PLAYER_TEX_W, PLAYER_TEX_H };
@@ -106,10 +95,9 @@ void player_update()
 
 	case 1:
 		++player.state;
-
-		//
 	case 2:
 		//通常時
+		
 		//プレイヤーのスピードが徐々に上がる
 		speedX++;
 
@@ -171,16 +159,12 @@ void player_render()
 
 	//左クリック長押ししてるときに弾丸を描画させる
 
-	if (STATE(0) & PAD_L1)
+	for (int i = 0; i < 100; i++)
 	{
-		sprite_render(sprBullet, 
-			BX, BY, 
-			player.position.x, player.position.y, 
-			BTX, BTY, 
-			BTW, BTH, 
-			BCX, BCY, 
-			B_angle, 
-			1.0f, 1.0f, 1.0f, 1.0f);
+		if (bullets[i].state != 0)
+		{
+			sprite_render(sprBullet, bullets[i].pos.x, bullets[i].pos.y, bullets[i].scale.x/*sx*/, bullets[i].scale.y/*sy*/, bullets[i].texPos.x/*tx*/, bullets[i].texPos.y/*ty*/, bullets[i].texSize.x/*tw*/, bullets[i].texSize.y/*th*/, bullets[i].pivot.x/*cx*/, bullets[i].pivot.y/*cy*/, bullets[i].angle/*angle*/, bullets[i].color.x, bullets[i].color.y, bullets[i].color.z, bullets[i].color.w);
+		}
 	}
 	//右クリックを押したときにグレランを描写させる
 

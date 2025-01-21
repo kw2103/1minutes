@@ -1,4 +1,5 @@
 #include "stage.h"
+using namespace GameLib;
 
 
 VECTOR2 stage_data[6][20][QUANTITY] =

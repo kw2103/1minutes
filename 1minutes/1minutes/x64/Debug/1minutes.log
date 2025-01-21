@@ -1,14 +1,15 @@
-﻿  Enemy.cpp
-  Main.cpp
-  Obstacles.cpp
-  Player.cpp
-  SceneGame.cpp
-  SceneTitle.cpp
-  コードを生成中...
+﻿  stage.cpp
 Player.obj : error LNK2019: 未解決の外部シンボル "public: class VECTOR2 & __cdecl VECTOR2::operator=(class VECTOR2 const &)" (??4VECTOR2@@QEAAAEAV0@AEBV0@@Z) が関数 "void __cdecl player_init(void)" (?player_init@@YAXXZ) で参照されました
+stage.obj : error LNK2001: 外部シンボル "public: class VECTOR2 & __cdecl VECTOR2::operator=(class VECTOR2 const &)" (??4VECTOR2@@QEAAAEAV0@AEBV0@@Z) は未解決です
+Player.obj : error LNK2019: 未解決の外部シンボル "public: class VECTOR2 & __cdecl VECTOR2::operator+=(class VECTOR2 const &)" (??YVECTOR2@@QEAAAEAV0@AEBV0@@Z) が関数 "void __cdecl player_update(void)" (?player_update@@YAXXZ) で参照されました
+stage.obj : error LNK2001: 外部シンボル "public: class VECTOR2 & __cdecl VECTOR2::operator+=(class VECTOR2 const &)" (??YVECTOR2@@QEAAAEAV0@AEBV0@@Z) は未解決です
 Player.obj : error LNK2019: 未解決の外部シンボル "public: __cdecl GameLib::Sprite::~Sprite(void)" (??1Sprite@GameLib@@QEAA@XZ) が関数 "public: void * __cdecl GameLib::Sprite::`scalar deleting destructor'(unsigned int)" (??_GSprite@GameLib@@QEAAPEAXI@Z) で参照されました
+stage.obj : error LNK2001: 外部シンボル "public: __cdecl GameLib::Sprite::~Sprite(void)" (??1Sprite@GameLib@@QEAA@XZ) は未解決です
 Player.obj : error LNK2019: 未解決の外部シンボル "class GameLib::Sprite * __cdecl GameLib::sprite_load(wchar_t const *,int)" (?sprite_load@GameLib@@YAPEAVSprite@1@PEB_WH@Z) が関数 "void __cdecl player_update(void)" (?player_update@@YAXXZ) で参照されました
+stage.obj : error LNK2001: 外部シンボル "class GameLib::Sprite * __cdecl GameLib::sprite_load(wchar_t const *,int)" (?sprite_load@GameLib@@YAPEAVSprite@1@PEB_WH@Z) は未解決です
 Player.obj : error LNK2019: 未解決の外部シンボル "void __cdecl GameLib::sprite_render(class GameLib::Sprite *,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,bool)" (?sprite_render@GameLib@@YAXPEAVSprite@1@MMMMMMMMMMMMMMMM_N@Z) が関数 "void __cdecl player_render(void)" (?player_render@@YAXXZ) で参照されました
-Player.obj : error LNK2019: 未解決の外部シンボル "int __cdecl GameLib::input::TRG(int)" (?TRG@input@GameLib@@YAHH@Z) が関数 "void __cdecl player_update(void)" (?player_update@@YAXXZ) で参照されました
+stage.obj : error LNK2001: 外部シンボル "void __cdecl GameLib::sprite_render(class GameLib::Sprite *,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,float,bool)" (?sprite_render@GameLib@@YAXPEAVSprite@1@MMMMMMMMMMMMMMMM_N@Z) は未解決です
+Player.obj : error LNK2019: 未解決の外部シンボル "int __cdecl GameLib::input::TRG(int)" (?TRG@input@GameLib@@YAHH@Z) が関数 "void __cdecl player_render(void)" (?player_render@@YAXXZ) で参照されました
+Player.obj : error LNK2019: 未解決の外部シンボル "int __cdecl GameLib::input::STATE(int)" (?STATE@input@GameLib@@YAHH@Z) が関数 "void __cdecl player_render(void)" (?player_render@@YAXXZ) で参照されました
 MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
-C:\Users\2240122\OneDrive\ドキュメント\GitHub\1minutes\1minutes\x64\Debug\1minutes.exe : fatal error LNK1120: 6 件の未解決の外部参照
+C:\Users\2240122\OneDrive\ドキュメント\GitHub\1minutes\1minutes\x64\Debug\1minutes.exe : fatal error LNK1120: 8 件の未解決の外部参照
