@@ -137,6 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SourceCode\All.h" />
+    <ClInclude Include="SourceCode\checkpoint.h" />
     <ClInclude Include="SourceCode\Enemy.h" />
     <ClInclude Include="SourceCode\Main.h" />
     <ClInclude Include="SourceCode\Obstacles.h" />
