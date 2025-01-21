@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル _main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+C:\Users\2240029\Desktop\チーム制作\1年3回目\github\1minutes\1minutes\Debug\1minutes.exe : fatal error LNK1120: 1 件の未解決の外部参照

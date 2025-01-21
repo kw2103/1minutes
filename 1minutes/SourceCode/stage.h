@@ -6,12 +6,17 @@
 #include "checkpoint.h"
 #include "../GameLib/game_lib.h"
 
+class OBJ2D;
+class Enemy;
+
 constexpr float STAGE_TEX_W = 400.0f;
 constexpr float STAGE_TEX_H = 100.0f;
 constexpr float JUMP_TEX_W = 100.0f;
 constexpr float JUMP_TEX_H = 100.0f;
 constexpr int QUANTITY = 8;
 
+//class Enemy;
+//class CheckPoint;
 
 class Stage
 {

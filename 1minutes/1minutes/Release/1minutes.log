@@ -1,0 +1,25 @@
+﻿  debug.cpp
+  depth_stencil.cpp
+  dxtk_audio.cpp
+  font.cpp
+  frame_rate.cpp
+  game_lib.cpp
+  input_manager.cpp
+  obj2d_data.cpp
+  primitive.cpp
+  resource_manager.cpp
+  sprite.cpp
+  texture.cpp
+  vector.cpp
+  view_settings.cpp
+  wnd_proc.cpp
+  Enemy.cpp
+  Main.cpp
+  Obstacles.cpp
+  Player.cpp
+  SceneGame.cpp
+  コンパイル中...
+  SceneTitle.cpp
+  stage.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: 外部シンボル _main は未解決です
+C:\Users\2240029\Desktop\チーム制作\1年3回目\github\1minutes\1minutes\Release\1minutes.exe : fatal error LNK1120: 1 件の未解決の外部参照

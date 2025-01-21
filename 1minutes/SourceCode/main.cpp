@@ -7,7 +7,7 @@
 //******************************************************************************
 
 //------< インクルード >---------------------------------------------------------
-#include "All.h"
+#include "Main.h"
 
 //------< 変数 >----------------------------------------------------------------
 int curScene = SCENE_NONE;
@@ -59,7 +59,7 @@ int APIENTRY wWinMain(HINSTANCE, HINSTANCE, LPWSTR, int)
         GameLib::input::update();
 
         // 音楽の更新処理
-        //music::update();
+        GameLib::music::update();
 
         // 現在のシーンに応じた更新・描画処理
         switch (curScene)

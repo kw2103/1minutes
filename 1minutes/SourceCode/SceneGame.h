@@ -16,5 +16,7 @@ void game_update();
 void game_render();
 void stage_make(bool init);
 void back_move();
+void stage_deinit();
+void checkPoint_respawn();
 
 #endif//SCENE_GAME_H

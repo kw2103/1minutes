@@ -1,13 +1,13 @@
-#include "All.h"
-//#include "stage.h"
-//#include "Enemy.h"
-//#include "checkpoint.h"
-//#include <vector>
+#include "SceneGame.h"
+#include "Player.h"
+#include "stage.h"
+#include "Enemy.h"
+#include "checkpoint.h"
+#include <vector>
 
 //------< 定数 >----------------------------------------------------------------
 
-void stage_deinit();
-void checkPoint_respawn();
+
 //------< 構造体 >---------------------------------------------------------------
 
 
@@ -26,7 +26,8 @@ int clear_timer;
 bool through[6];
 bool respawn;
 bool goal;
-extern struct OBJ2D player;
+extern OBJ2D player;
+extern int nextScene;
 GameLib::Sprite* sprite[6];
 GameLib::Sprite* enemy;
 std::vector<Stage*> stage;
@@ -66,17 +67,7 @@ void game_init()
 //--------------------------------------
 void game_deinit()
 {
-#if 11
-    //******************************************************************************
-    // TODO:11 プレイヤーの終了処理関数を呼び出す
-    //------------------------------------------------------------------------------
-    /*
-    課題）
-        下記でplayer_deinit関数を呼びましょう。
-    */
-    //******************************************************************************
-#endif
-    //TODO_11
+
     player_deinit();
     for (auto& spr : sprite)
     {
@@ -111,21 +102,6 @@ void game_update()
         enemy = GameLib::sprite_load(L"./Data/Images/zombie.png");
 
 
-#if 10
-        //******************************************************************************
-        // TODO:10 プレイヤーの初期設定関数を呼び出す
-        //------------------------------------------------------------------------------
-        /*
-        課題）
-            下記でplayer_init関数を呼びましょう。
-
-        解説）
-            ここから、player関連の関数を呼び出していきます。どこで何の関数を呼び出して
-            いるのかを把握しておきましょう。
-        */
-        //******************************************************************************
-#endif
-        //TODO_10
         player_init();
 
         game_state++;
@@ -233,21 +209,11 @@ void game_update()
         GameLib::debug::setString("");
         if (GameLib::input::TRG(0) & GameLib::input::PAD_SELECT)
         {
-            //nextScene = SCENE_TITLE;
+            nextScene = SCENE_TITLE;
             break;
         }
 
-#if 12
-        //******************************************************************************
-        // TODO:12 プレイヤーの更新関数を呼び出す
-        //------------------------------------------------------------------------------
-        /*
-        課題）
-            下記でplayer_update関数を呼びましょう。
-        */
-        //******************************************************************************
-#endif
-        //TODO_12
+
         player_update();
 
         back_move();
@@ -364,7 +330,7 @@ void game_update()
         {
             for (auto enemies_itr = enemies.begin(); enemies_itr != enemies.end(); enemies_itr++)
             {
-                //(*stage_itr)->enemy_onStage(*enemies_itr);
+                 (*stage_itr)->enemy_onStage(*enemies_itr);
             }
             (*stage_itr)->stage_move(velocity, gravity);
             (*stage_itr)->checkPoint_through(&checkpoint, backPos, player.pos.x);
@@ -395,7 +361,7 @@ void game_update()
             }
             else
             {
-                //nextScene = SCENE_TITLE;
+                nextScene = SCENE_TITLE;
             }
             break;
         }
@@ -444,19 +410,6 @@ void game_render()
         (*jump_itr)->jumpBoard_render();
     }
 
-#if 13
-    //******************************************************************************
-    // TODO:13 プレイヤーの描画関数を呼び出す
-    //------------------------------------------------------------------------------
-    /*
-    課題）
-        下記でplayer_render関数を呼びましょう。
-
-        これで、プレイヤーが画面に表示されます。実行してみましょう。
-    */
-    //******************************************************************************
-#endif
-    //TODO_13
     player_render();
 }
 

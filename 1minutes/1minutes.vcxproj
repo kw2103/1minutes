@@ -76,6 +76,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -127,6 +128,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GameLib\debug.cpp" />
+    <ClCompile Include="GameLib\depth_stencil.cpp" />
+    <ClCompile Include="GameLib\dxtk_audio.cpp" />
+    <ClCompile Include="GameLib\font.cpp" />
+    <ClCompile Include="GameLib\frame_rate.cpp" />
+    <ClCompile Include="GameLib\game_lib.cpp" />
+    <ClCompile Include="GameLib\input_manager.cpp" />
+    <ClCompile Include="GameLib\obj2d_data.cpp" />
+    <ClCompile Include="GameLib\primitive.cpp" />
+    <ClCompile Include="GameLib\resource_manager.cpp" />
+    <ClCompile Include="GameLib\sprite.cpp" />
+    <ClCompile Include="GameLib\texture.cpp" />
+    <ClCompile Include="GameLib\vector.cpp" />
+    <ClCompile Include="GameLib\view_settings.cpp" />
+    <ClCompile Include="GameLib\wnd_proc.cpp" />
     <ClCompile Include="SourceCode\Enemy.cpp" />
     <ClCompile Include="SourceCode\Main.cpp" />
     <ClCompile Include="SourceCode\Obstacles.cpp" />
@@ -136,6 +152,25 @@
     <ClCompile Include="SourceCode\stage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GameLib\blender.h" />
+    <ClInclude Include="GameLib\debug.h" />
+    <ClInclude Include="GameLib\depth_stencil.h" />
+    <ClInclude Include="GameLib\dxtk_audio.h" />
+    <ClInclude Include="GameLib\font.h" />
+    <ClInclude Include="GameLib\frame_rate.h" />
+    <ClInclude Include="GameLib\game_lib.h" />
+    <ClInclude Include="GameLib\high_resolution_timer.h" />
+    <ClInclude Include="GameLib\input_manager.h" />
+    <ClInclude Include="GameLib\misc.h" />
+    <ClInclude Include="GameLib\obj2d_data.h" />
+    <ClInclude Include="GameLib\primitive.h" />
+    <ClInclude Include="GameLib\resource_manager.h" />
+    <ClInclude Include="GameLib\sprite.h" />
+    <ClInclude Include="GameLib\system.h" />
+    <ClInclude Include="GameLib\texture.h" />
+    <ClInclude Include="GameLib\util.h" />
+    <ClInclude Include="GameLib\vector.h" />
+    <ClInclude Include="GameLib\view_settings.h" />
     <ClInclude Include="SourceCode\All.h" />
     <ClInclude Include="SourceCode\checkpoint.h" />
     <ClInclude Include="SourceCode\Enemy.h" />

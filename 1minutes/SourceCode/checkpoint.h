@@ -1,6 +1,8 @@
-#pragma once
+#ifndef CHECKPOINT_H
+#define CHECKPOINT_H
 
-#include"../GameLib/game_lib.h"
+
+#include "All.h"
 
 
 class CheckPoint
@@ -20,3 +22,5 @@ public:
 	}
 
 };
+
+#endif // !CHECKPOINT_H
