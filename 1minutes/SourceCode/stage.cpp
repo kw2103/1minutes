@@ -1,5 +1,4 @@
 #include "stage.h"
-#include "player.h"
 
 
 VECTOR2 stage_data[6][20][QUANTITY] =
@@ -224,23 +223,23 @@ bool Stage::stage_judge(OBJ2D* player)
 	return true;
 }
 
-//void Stage::enemy_onStage(Enemy* enemy)
-//{
-//	VECTOR2 enemyPos = enemy->get_enemyPosition();
-//	if (!enemy->onGround_through)
-//	{
-//		if (enemyPos.y - ENEMY_TEX_H * 0.5f <= pos.y + STAGE_TEX_H && enemyPos.y + ENEMY_TEX_H * 0.5f >= pos.y &&
-//			enemyPos.x + ENEMY_TEX_W * 0.5f > pos.x && enemyPos.x - ENEMY_TEX_W * 0.5f < pos.x + STAGE_TEX_W) {
-//			enemy->onGround = true;
-//			enemy->set_enemyPositionY(pos.y);
-//			enemy->onGround_through = true;
-//		}
-//		else
-//		{
-//			enemy->onGround = false;
-//		}
-//	}
-//}
+void Stage::enemy_onStage(Enemy* enemy)
+{
+	VECTOR2 enemyPos = enemy->get_enemyPosition();
+	if (!enemy->onGround_through)
+	{
+		if (enemyPos.y - ENEMY_TEX_H * 0.5f <= pos.y + STAGE_TEX_H && enemyPos.y + ENEMY_TEX_H * 0.5f >= pos.y &&
+			enemyPos.x + ENEMY_TEX_W * 0.5f > pos.x && enemyPos.x - ENEMY_TEX_W * 0.5f < pos.x + STAGE_TEX_W) {
+			enemy->onGround = true;
+			enemy->set_enemyPositionY(pos.y);
+			enemy->onGround_through = true;
+		}
+		else
+		{
+			enemy->onGround = false;
+		}
+	}
+}
 
 void Stage::checkPoint_through(CheckPoint* check, VECTOR2 back_pos, float player_posX)
 {

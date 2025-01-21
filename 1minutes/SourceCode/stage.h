@@ -1,7 +1,8 @@
 #ifndef STAGE_H
 #define STAGE_H
 
-#include "enemy.h"
+#include "Player.h"
+#include "Enemy.h"
 #include "checkpoint.h"
 #include "../GameLib/game_lib.h"
 
@@ -10,9 +11,6 @@ constexpr float STAGE_TEX_H = 100.0f;
 constexpr float JUMP_TEX_W = 100.0f;
 constexpr float JUMP_TEX_H = 100.0f;
 constexpr int QUANTITY = 8;
-const LONG SCREEN_W{ 1920 };
-const LONG SCREEN_H{ 1080 };
-
 
 
 class Stage
@@ -31,7 +29,7 @@ public:
 	bool stage_erase(int backNum, int backCount);
 	void stage_render();
 	bool stage_judge(OBJ2D* player);
-	//void enemy_onStage(Enemy* enemy);
+	void enemy_onStage(Enemy* enemy);
 	void checkPoint_through(CheckPoint* check, VECTOR2 back_pos, float player_posX);
 	bool goal(VECTOR2 position);
 };
